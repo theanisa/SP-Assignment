@@ -1,5 +1,7 @@
 # SP-Assignment
-Class work on Array and function./n 
+Class work on Array and function.
+
+
 Solution of , 
 1) Sum of Two Numbers
 2)  Calculate Average
