@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main (){
+int arr[] = {53,32,19,79,25,5,47};
+int i, mn=arr[0],mx=arr[0];
+for (i=0; i<7;i++){
+of (arr[i]mn)
+mn=arr[i];
+}
+printf ("Maximum = %d\n, Minimum = %d \n"mx,mn)
+return 0;
+}
